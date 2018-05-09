@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=words
+comment0.target=TextToSpeech(java.lang.String)
+comment1.params=words
+comment1.target=void\ sayWords(java.lang.String)
+comment2.params=n
+comment2.target=void\ main(java.lang.String)
+numComments=3
